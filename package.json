@@ -1,0 +1,12 @@
+{
+    "name": "html-tag-highlight",
+    "title": "HTML Tag Highlight",
+    "description": "To highlight start and end tags",
+    "homepage": "https://github.com/sathyamoorthi/brackets-html-tag-highlight",
+    "version": "1.0.0",
+    "author": "Sathyamoorthi<sathyamoorthi10@gmail.com>",
+    "files": [
+        "main.js",
+        "README.md"
+    ]
+}
