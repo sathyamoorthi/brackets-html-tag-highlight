@@ -1,6 +1,7 @@
 [Brackets](https://github.com/adobe/brackets) is an open-source code editor built with the web for the web.
 
-This extension will help to highlight start and end tags in HTML document.
+This extension will help to highlight start and end tags in HTML document. Use Alt + J to switch between start and end tags. 
+
 
 BETA 
 ----
@@ -9,4 +10,4 @@ This extenstion is not fully completed version and have to be tested well. Pleas
    
 KNOWN ISSUES
 ----
-Select a tag, then do scroll to hide that line. You will lost selection. This has to be fixed.
+![Image](https://lh4.googleusercontent.com/-5dildL5s2Xs/UbP6OtnqOkI/AAAAAAAAAbk/VYfVNgAXBHU/w484-h191-no/highlight-known-issue-commit-3.png)
