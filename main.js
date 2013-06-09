@@ -1,8 +1,6 @@
 /*jslint vars: true, plusplus: true, devel: true, nomen: true, regexp: true, indent: 4, maxerr: 50 */
 /*global define, $, brackets*/
 
-var cm, tm1, tm2;
-
 define(function (require, exports, module) {
     "use strict";
     
@@ -17,7 +15,7 @@ define(function (require, exports, module) {
     */
 
     var em = brackets.getModule("editor/EditorManager");  
-    var sTag, eTag, dir, line = -1, skip;  
+    var cm, tm1, tm2, sTag, eTag, dir, line = -1, skip;  
 
     //test case: doVisualHighlight({text: "        <div><div>"}, "<div>", 1, true);
     function doVisualHighlight (lh, tag, pos, reverse) {
